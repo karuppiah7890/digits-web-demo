@@ -1,0 +1,19 @@
+{
+  "name": "digits-web-demo",
+  "version": "1.0.0",
+  "description": "Trying out digits demo in web applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "digits",
+    "sms-otp",
+    "otp"
+  ],
+  "author": "Karuppiah N <karuppiah7890@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
